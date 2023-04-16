@@ -16,10 +16,6 @@
 
     End Sub
 
-
-
-
-
     Public Sub TabPage2_Click(sender As Object, e As EventArgs) Handles TabPage2.Click
 
     End Sub
@@ -28,10 +24,6 @@
         tabs.SelectedIndex = 0
         Button6 = New Button()
     End Sub
-
-
-    Public Sub TabPage1_Click(sender As Object, e As EventArgs) Handles TabPage1.Click
-
     
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
