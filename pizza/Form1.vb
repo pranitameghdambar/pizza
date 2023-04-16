@@ -32,7 +32,7 @@
 
     Public Sub TabPage1_Click(sender As Object, e As EventArgs) Handles TabPage1.Click
 
-    End Sub
+    
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         TabPage2 = New TabPage()
